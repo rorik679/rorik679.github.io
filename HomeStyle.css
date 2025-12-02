@@ -42,7 +42,7 @@ body {
 }
 
 /* Style the heading */
-.main-heading {
+#main-heading {
   font-size: 4em;
   text-align: center;
 }
@@ -54,4 +54,5 @@ body {
   padding: 10px;
   text-align: center;
   font-size: 1.3em;
+
 }
